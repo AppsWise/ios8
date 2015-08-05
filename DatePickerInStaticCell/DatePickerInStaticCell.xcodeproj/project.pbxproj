@@ -409,6 +409,7 @@
 				02DD854F1B712CE100F901C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		02DD85501B712CE100F901C7 /* Build configuration list for PBXNativeTarget "DatePickerInStaticCellTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				02DD85521B712CE100F901C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
